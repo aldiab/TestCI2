@@ -3,6 +3,6 @@ import static org.junit.Assert.*;
 public class TestCases {
     @Test
     public void test1(){
-        assertEquals(26, Main.cubeX(3));
+        assertEquals(27, Main.cubeX(3));
     }
 }
