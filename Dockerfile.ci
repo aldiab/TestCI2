@@ -1,5 +1,5 @@
 FROM openjdk:16-alpine3.13
 
 WORKDIR /app
-COPY *.jar /app
-java -jar *.jar
+COPY TestCI-1.0-SNAPSHOT.jar /app
+java -jar TestCI-1.0-SNAPSHOT.jar
