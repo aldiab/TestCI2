@@ -5,7 +5,9 @@ public class Main {
         System.out.println(squareX(5));
         System.out.println("feature");
         System.out.println("Testing with class");
-        System.out.println("Another test");
+        System.out.println("Another test");      
+        System.out.println("Another test from hamza");
+
     }
 
     public static int cubeX(int x){
