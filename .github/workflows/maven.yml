@@ -27,7 +27,8 @@ jobs:
     - name: list the directory content
       run: |
           cd target 
-          ls -al 
+          ls -al
+#          java -jar 
 #    - name: Build and Push docker image
 #      uses: mr-smithers-excellent/docker-build-push@v5
 #      with:
