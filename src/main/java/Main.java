@@ -7,6 +7,8 @@ public class Main {
         System.out.println("Testing with class");
         System.out.println("Another test");
         System.out.println("Edit from Osama");
+        System.out.println("Modify by Sondos");
+
     }
 
     public static int cubeX(int x){
