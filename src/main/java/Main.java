@@ -6,6 +6,7 @@ public class Main {
         System.out.println("feature");
         System.out.println("Testing with class");
         System.out.println("Another test");
+        System.out.println("Test........");
     }
 
     public static int cubeX(int x){
