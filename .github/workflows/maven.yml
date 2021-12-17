@@ -28,7 +28,7 @@ jobs:
       run: |
           cd target 
           ls -al
-#          java -jar 
+          java -jar TestCI-1.0-SNAPSHOT.jar
 #    - name: Build and Push docker image
 #      uses: mr-smithers-excellent/docker-build-push@v5
 #      with:
