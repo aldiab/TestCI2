@@ -4,3 +4,5 @@ copy ./target /
 
 #CMD ["java -jar", "TestCI-1.0-SNAPSHOT.jar"]
 CMD ["java", "--version"]
+CMD ["pwd"]
+CMD ["ls"]
