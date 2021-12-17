@@ -7,6 +7,7 @@ public class Main {
         System.out.println("Testing with class");
         System.out.println("Another test");
         System.out.println("Edit from Osama");
+        System.out.println("Edit from Ahmad");
     }
 
     public static int cubeX(int x){
