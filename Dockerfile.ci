@@ -1,4 +1,4 @@
 From openjdk:latest
 
 copy ./target /
-#java -jar TestCI-1.0-SNAPSHOT.jar
+Run java -jar TestCI-1.0-SNAPSHOT.jar
