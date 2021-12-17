@@ -1,4 +1,4 @@
 From openjdk:latest
-WORKDIR /app
-COPY TestCI-1.0-SNAPSHOT.jar /app
+
+copy ./target /
 #java -jar TestCI-1.0-SNAPSHOT.jar
