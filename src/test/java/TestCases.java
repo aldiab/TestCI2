@@ -5,4 +5,9 @@ public class TestCases {
     public void test1(){
         assertEquals(27, Main.cubeX(3));
     }
+
+    @Test
+    public void test2(){
+        assertEquals(9, Main.squareX(3));
+    }
 }
