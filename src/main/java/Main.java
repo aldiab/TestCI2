@@ -10,16 +10,20 @@ public class Main {
         System.out.println("hello world");
 
         System.out.println("Adding some code from the client side");
+
         System.out.println("Adding Line by Farah Jamal");
         System.out.println("end by Farah Jamal");
+
+        System.out.println("Adding some code from Abdalrhman aljammal");
+
 
 
 
 
     }
-
+    // husam jaber
     public static int cubeX(int x){
-        return x * x * x * x;
+        return x * x * x;
     }
 
     public static int squareX(int x){
