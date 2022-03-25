@@ -16,7 +16,7 @@ public class Main {
 
         System.out.println("Adding some code from Abdalrhman aljammal");
 
-
+        System.out.println("Have a good day everyone, Mohammad Betamony.");
 
 
 
