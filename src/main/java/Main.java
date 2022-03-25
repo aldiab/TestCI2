@@ -8,11 +8,6 @@ public class Main {
         System.out.println("Another test");
 
         System.out.println("hello world");
-        System.out.println("Edit from Osama");
-        System.out.println("Modification for Section2");
-        System.out.println("Modification from the client side");
-
-        System.out.println("Modification - Motasem");
 
 
     }
