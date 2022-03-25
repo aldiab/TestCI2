@@ -8,7 +8,7 @@ public class Main {
         System.out.println("Another test");
 
         System.out.println("hello world");
-        System.out.println("Friday class);
+        System.out.println("Friday class");
 
 
     }
