@@ -17,7 +17,7 @@ public class Main {
 
 
     }
-
+    // husam jaber
     public static int cubeX(int x){
         return x * x * x;
     }
