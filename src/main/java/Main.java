@@ -7,8 +7,6 @@ public class Main {
         System.out.println("Testing with class");
         System.out.println("Another test");
 
-        System.out.println("hello world");
-
         System.out.println("Adding some code from the client side");
 
 
