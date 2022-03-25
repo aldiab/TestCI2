@@ -17,7 +17,7 @@ public class Main {
     }
 
     public static int cubeX(int x){
-        return x * x * x ;
+        return x * x * x * x;
     }
 
     public static int squareX(int x){
