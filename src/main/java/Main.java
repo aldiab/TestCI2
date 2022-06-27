@@ -29,4 +29,6 @@ public class Main {
     public static int squareX(int x){
         return x * x;
     }
+    
+    //Change from Ibrahim
 }
