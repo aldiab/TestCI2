@@ -31,7 +31,7 @@ public class Main {
     }
     
     // Ammar Abu Yaman
-    public static String hello() {
+    public static void hello() {
         System.out.println("Hello world -- Ammar");
     }
 }
