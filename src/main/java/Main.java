@@ -18,7 +18,7 @@ public class Main {
         System.out.println("Adding a line from Mohammad AlSabbagh");
 
 
-
+        hello();
 
 
 
@@ -31,5 +31,10 @@ public class Main {
 
     public static int squareX(int x){
         return x * x;
+    }
+    
+    // Ammar Abu Yaman
+    public static void hello() {
+        System.out.println("Hello world -- Ammar");
     }
 }
