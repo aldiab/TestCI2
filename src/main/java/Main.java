@@ -15,7 +15,7 @@ public class Main {
 
 
 
-
+        hello();
 
 
 
@@ -28,5 +28,10 @@ public class Main {
 
     public static int squareX(int x){
         return x * x;
+    }
+    
+    // Ammar Abu Yaman
+    public static String hello() {
+        System.out.println("Hello world -- Ammar");
     }
 }
