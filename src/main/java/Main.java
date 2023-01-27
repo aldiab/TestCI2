@@ -4,6 +4,8 @@ public class Main {
         System.out.println(cubeX(5));
         System.out.println(squareX(5));
 
+        System.out.println("Another modification");
+
 
 
         
