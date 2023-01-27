@@ -13,27 +13,18 @@ public class Main {
 
         System.out.println("Adding a line from Intelli");
 
-        System.out.println("Sunday class");
-
-        System.out.println("A modification from the client side");
-
-        System.out.println("A modification from the Hamza side");
 
         
 
 
-         System.out.println("A modification from the client side 2");
-        
 
-
-    //test
 
 
 
 
 
     }
-    // husam jaber
+   
     public static int cubeX(int x){
         return x * x * x ;
     }
