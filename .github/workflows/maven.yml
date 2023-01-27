@@ -29,6 +29,7 @@ jobs:
           cd target 
           ls -al
           java -jar TestCI-1.0-SNAPSHOT.jar
+          echo Hello from Mahmoud Kassab
    # - name: Build and Push docker image
    #   uses: mr-smithers-excellent/docker-build-push@v5
    #   with:
