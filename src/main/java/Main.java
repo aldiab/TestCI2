@@ -8,7 +8,7 @@ public class Main {
         System.out.println("Alex Litsakis");
 
 
-        System.out.println("Hello from Mohammad Malkawi");
+        System.out.println("Hello from Mohammad");
 
         
 
