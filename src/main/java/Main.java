@@ -5,6 +5,11 @@ public class Main {
         System.out.println(squareX(5));
         System.out.println("A new modification from IntelliJ by hashem");
 
+        System.out.println("A new modification from saif");
+
+
+ System.out.println("moath's modification");
+
 
     }
    
