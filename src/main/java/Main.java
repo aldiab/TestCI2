@@ -4,13 +4,9 @@ public class Main {
         System.out.println(cubeX(5));
         System.out.println(squareX(5));
         System.out.println("A new modification from IntelliJ");
-
         System.out.println("A new modification from saif");
-
-
- System.out.println("moath's modification");
-
-
+        System.out.println("moath's modification");
+        System.out.println("Jafar Juneidi's modifications");
     }
    
     public static int cubeX(int x){
