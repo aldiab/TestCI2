@@ -3,8 +3,8 @@ public class Main {
         System.out.println("Main");
         System.out.println(cubeX(5));
         System.out.println(squareX(5));
+        System.out.println("Ruwaid");
 
-        System.out.println("Kamel");
     }
    
     public static int cubeX(int x){
