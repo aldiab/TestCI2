@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Main");
+        System.out.println("Main File");
         System.out.println(cubeX(5));
         System.out.println(squareX(5));
 
