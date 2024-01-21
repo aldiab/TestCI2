@@ -12,6 +12,7 @@ public class Main {
     }
 
     public static int squareX(int x){
+        // something from dimitris
         return x * x ;
     }
 }
