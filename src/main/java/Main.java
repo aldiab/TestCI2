@@ -5,6 +5,7 @@ public class Main {
         System.out.println(squareX(5));
         System.out.println("Omar");
         System.out.println("Motasem");
+        System.out.println("Motasem");
 
     }
    
