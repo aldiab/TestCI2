@@ -7,6 +7,8 @@ public class Main {
         System.out.println("Motasem");
         System.out.println("Motasem");
         System.out.println("Rukny");
+        System.out.println("CI/CD");
+    
     }
    
     public static int cubeX(int x){
