@@ -8,6 +8,6 @@ public class TestCases {
 
     @Test
     public void test2(){
-        assertEquals(9, Main.squareX(3));
+        assertEquals(10, Main.squareX(3));
     }
 }
